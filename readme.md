@@ -16,6 +16,9 @@
     - focus on custom interaction rules and interaction calculus in forth
 - optiscope [repo](https://github.com/etiams/optiscope)
     - efficient implementation of lambdascope
+- GoI-Visualizer [website](https://koko-m.github.io/GoI-Visualiser/), [repo](https://github.com/koko-m/GoI-Visualizer)
+    - interactive translator from lambda calculus to a interaction net-like token-passing encoding (GoI)
+    - focus on enforcing reduction strategies by various applicator-token interactions
 
 ## Research
 
@@ -95,6 +98,7 @@
 - 2006: Sinot, "Token-Passing Nets: Call-by-Need for Free" [url](https://www.sciencedirect.com/science/article/pii/S1571066106000934)
 - 2008: Almeida, Pinto, and Vilaça, "Token-Passing Nets for Functional Languages." [url](https://www.sciencedirect.com/science/article/pii/S1571066108001667)
 - 2016: Salikhmetov, "Token-Passing Optimal Reduction with Embedded Read-Back." [url](http://arxiv.org/abs/1609.03644)
+- 2018: Muroya and Chica, "Efficient Implementation of Evaluation Strategies via Token-Guided Graph Rewriting" [url](https://arxiv.org/pdf/1802.06495)
 
 #### Theory
 
