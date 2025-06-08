@@ -17,7 +17,7 @@
 - optiscope [repo](https://github.com/etiams/optiscope)
     - efficient implementation of lambdascope
 - GoI-Visualizer [website](https://koko-m.github.io/GoI-Visualiser/), [repo](https://github.com/koko-m/GoI-Visualizer)
-    - interactive translator from lambda calculus to a interaction net-like token-passing encoding (GoI)
+    - interactive translator from lambda calculus to an interaction net-like token-passing encoding (GoI)
     - focus on enforcing reduction strategies by various applicator-token interactions
 
 ## Research
@@ -31,7 +31,7 @@
 - 1997: Lafont, "Interaction Combinators." [url](https://linkinghub.elsevier.com/retrieve/pii/S0890540197926432)
 - 2003: Fernández and Mackie, "Operational Equivalence for Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S0304397502006370)
 - 2006: Ehrhard and Regnier, "Differential Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S0304397506005299)
-- 2009: Fernández and Mackie and Sato and Walker, "Recursive Functions with Pattern Matching in Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S157106610900437X)
+- 2009: Fernández, Mackie, Sato, and Walker, "Recursive Functions with Pattern Matching in Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S157106610900437X)
 - 2016: Mackie and Sato, "In-place Graph Rewriting with Interaction Nets." [url](https://arxiv.org/pdf/1609.03641)
 - 2016: Mackie and Sato, "Parallel Evaluation of Interaction Nets: Case Studies and Experiments." [url](https://eceasst.org/index.php/eceasst/article/download/2205/2376/2387)
 - 2016: Gimenez and Moser, "The Complexity of Interaction." [url](https://dl.acm.org/doi/10.1145/2837614.2837646)
@@ -40,7 +40,7 @@
 
 - 2000: Pinto, "Sequential and Concurrent Abstract Machines for Interaction Nets." [url](https://link.springer.com/chapter/10.1007/3-540-46432-8_18)
 - 2003: Pinto, "Weak Reduction and Garbage Collection in Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S1571066105826143)
-- 2009: Hassan and Mackie and Sato, "Compilation of Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S1571066109004381)
+- 2009: Hassan, Mackie, and Sato, "Compilation of Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S1571066109004381)
 - 2015: Kahl, "A Simple Parallel Implementation of Interaction Nets in Haskell." [url](http://arxiv.org/abs/1504.02603)
 - 2015: Sato, "Design and Implementation of a Low-Level Language for Interaction Nets." [url](https://sussex.figshare.com/articles/thesis/Design_and_implementation_of_a_low-level_language_for_interaction_nets/23417312/1)
 - 2020: Accattoli, Lago, and Vanoni, "The Abstract Machinery of Interaction." [url](http://arxiv.org/abs/2002.05649)
@@ -95,7 +95,7 @@
 - 2005: Guerrini, "Sharing Implementations of Graph Rewriting Systems." [url](https://www.sciencedirect.com/science/article/pii/S1571066105050164)
 - 2013: Balabonski, "Weak Optimality, and the Meaning of Sharing." [url](https://doi.org/10.1145/2544174.2500606)
 - 2014: Pedicini, Pellitta, and Piazza, "Sequential and Parallel Abstract Machines for Optimal Reduction." [url](https://www.mat.uniroma3.it/users/pedicini/papers/subTFP2014.pdf)
-- 2017: Lai and Pedicini and Piazza, "Abstract Machines, Optimal Reduction, and Streams." [url](https://iris.uniroma1.it/bitstream/11573/1408275/6/Lai_preprint_abstract_2019.pdf)
+- 2017: Lai, Pedicini, and Piazza, "Abstract Machines, Optimal Reduction, and Streams." [url](https://iris.uniroma1.it/bitstream/11573/1408275/6/Lai_preprint_abstract_2019.pdf)
 - 2025: Salvadori, "Δ-Nets." [url](https://arxiv.org/abs/2505.20314)
 
 #### Tokens
@@ -114,7 +114,7 @@
 - 2003: Beckmann, "Exact Bounds For Lengths of Reductions in Typed λ-Calculus" [url](https://www.beckmann.pro/PaperFiles/lambda.pdf)
 - 2004: Baillot and Terui, "A Feasible Algorithm for Typing in Elementary Affine Logic." [url](http://arxiv.org/abs/cs/0412028)
 - 2007: Terui, "Light Affine Lambda Calculus and Polynomial Time Strong Normalization." [url](https://doi.org/10.1007/s00153-007-0042-6)
-- 2013: David and Grygiel and Kozic and Raffalli and Theyssier and Zaionc, "Asymptotically Almost All λ-Terms Are Strongly Normalizing." [url](https://arxiv.org/pdf/0903.5505)
+- 2013: David, Grygiel, Kozic, Raffalli, Theyssier, and Zaionc, "Asymptotically Almost All λ-Terms Are Strongly Normalizing." [url](https://arxiv.org/pdf/0903.5505)
 - 2014: Accattoli and Dal Lago, "Beta Reduction Is Invariant, Indeed." [url](https://doi.org/10.1145/2603088.2603105)
 - 2022: Lago, "Implicit Computation Complexity in Higher-Order Programming Languages: A Survey in Memory of Martin Hofmann." [url](https://www.researchgate.net/publication/359247675_Implicit_computation_complexity_in_higher-order_programming_languages_A_Survey_in_Memory_of_Martin_Hofmann)
 
