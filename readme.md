@@ -16,9 +16,6 @@
     - focus on custom interaction rules and interaction calculus in forth
 - optiscope [repo](https://github.com/etiams/optiscope)
     - efficient implementation of lambdascope
-- GoI-Visualizer [website](https://koko-m.github.io/GoI-Visualiser/), [repo](https://github.com/koko-m/GoI-Visualizer)
-    - interactive translator from lambda calculus to a interaction net-like token-passing encoding (GoI)
-    - focus on enforcing reduction strategies by various applicator-token interactions
 
 ## Research
 
@@ -30,6 +27,11 @@
 - 1996: Asperti and Laneve, "Interaction Systems II." [url](https://www.sciencedirect.com/science/article/pii/0304397595000623)
 - 1997: Lafont, "Interaction Combinators." [url](https://linkinghub.elsevier.com/retrieve/pii/S0890540197926432)
 - 2003: Fernández and Mackie, "Operational Equivalence for Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S0304397502006370)
+- 2006: Ehrhard and Regnier, "Differential Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S0304397506005299)
+- 2009: Hassan and Mackie and Sato, "Compilation of Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S1571066109004381)
+- 2009: Fernández and Mackie and Sato and Walker, "Recursive Functions with Pattern Matching in Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S157106610900437X)
+- 2016: Mackie and Sato, "In-place Graph Rewriting with Interaction Nets." [url](https://arxiv.org/pdf/1609.03641)
+- 2016: Mackie and Sato, "Parallel Evaluation of Interaction Nets: Case Studies and Experiments." [url](https://eceasst.org/index.php/eceasst/article/download/2205/2376/2387)
 - 2016: Gimenez and Moser, "The Complexity of Interaction." [url](https://dl.acm.org/doi/10.1145/2837614.2837646)
 
 ### Implementation
@@ -59,6 +61,7 @@
 
 - 1999: Alexiev, "Non-Deterministic Interaction Nets." [url](https://era.library.ualberta.ca/items/8af05152-4996-401c-8d53-9c180b717891)
 - 2002: Fernández and Khalil, "Interaction Nets with McCarthy’s Amb." [url](https://www.sciencedirect.com/science/article/pii/S1571066105803639)
+- 2005: Mazza, "Multiport Interaction Nets and Concurrency." [url](https://lipn.univ-paris13.fr/~mazza/papers/mINSAndConcurrency-CONCUR05.pdf)
 - 2006: Mazza, "Interaction Nets: Semantics and Concurrent Extensions." [url](https://lipn.univ-paris13.fr/~mazza/papers/Thesis-1.0.pdf)
 
 ### IO
@@ -71,6 +74,7 @@
 #### Efficiency
 
 - 1996: Lawall and Mairson, "Optimality and Inefficiency." [url](https://dl.acm.org/doi/10.1145/232629.232639)
+- 1998: Mackie, "YALE: Yet Another Lambda Evaluator Based on Interaction Nets." [url](https://dl.acm.org/doi/pdf/10.1145/291251.289434)
 - 2004: Mackie, "Efficient λ-Evaluation with Interaction Nets." [url](https://link.springer.com/chapter/10.1007/978-3-540-25979-4_11)
 - 2017: Asperti, "About the Efficient Reduction of Lambda Terms." [url](http://arxiv.org/abs/1701.04240)
 
@@ -89,6 +93,7 @@
 - 2005: Guerrini, "Sharing Implementations of Graph Rewriting Systems." [url](https://www.sciencedirect.com/science/article/pii/S1571066105050164)
 - 2013: Balabonski, "Weak Optimality, and the Meaning of Sharing." [url](https://doi.org/10.1145/2544174.2500606)
 - 2014: Pedicini, Pellitta, and Piazza, "Sequential and Parallel Abstract Machines for Optimal Reduction." [url](https://www.mat.uniroma3.it/users/pedicini/papers/subTFP2014.pdf)
+- 2017: Lai and Pedicini and Piazza, "Abstract Machines, Optimal Reduction, and Streams." [url](https://iris.uniroma1.it/bitstream/11573/1408275/6/Lai_preprint_abstract_2019.pdf)
 - 2025: Salvadori, "Δ-Nets." [url](https://arxiv.org/abs/2505.20314)
 
 #### Tokens
@@ -98,15 +103,17 @@
 - 2006: Sinot, "Token-Passing Nets: Call-by-Need for Free" [url](https://www.sciencedirect.com/science/article/pii/S1571066106000934)
 - 2008: Almeida, Pinto, and Vilaça, "Token-Passing Nets for Functional Languages." [url](https://www.sciencedirect.com/science/article/pii/S1571066108001667)
 - 2016: Salikhmetov, "Token-Passing Optimal Reduction with Embedded Read-Back." [url](http://arxiv.org/abs/1609.03644)
-- 2018: Muroya and Chica, "Efficient Implementation of Evaluation Strategies via Token-Guided Graph Rewriting" [url](https://arxiv.org/pdf/1802.06495)
 
 #### Theory
 
 - 1997: Asperti, "P = NP, up to Sharing." [url](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d45b284c43f8a341bb60826b2819557e0d0fe94a)
 - 1998: Asperti and Mairson, "Parallel Beta Reduction Is Not Elementary Recursive." [url](https://dl.acm.org/doi/10.1145/268946.268971)
+- 2003: Beckmann, "Exact Bounds For Lengths of Reductions in Typed λ-Calculus" [url](https://www.beckmann.pro/PaperFiles/lambda.pdf)
 - 2004: Baillot and Terui, "A Feasible Algorithm for Typing in Elementary Affine Logic." [url](http://arxiv.org/abs/cs/0412028)
 - 2007: Terui, "Light Affine Lambda Calculus and Polynomial Time Strong Normalization." [url](https://doi.org/10.1007/s00153-007-0042-6)
+- 2013: David and Grygiel and Kozic and Raffalli and Theyssier and Zaionc, "Asymptotically Almost All λ-Terms Are Strongly Normalizing." [url](https://arxiv.org/pdf/0903.5505)
 - 2014: Accattoli and Dal Lago, "Beta Reduction Is Invariant, Indeed." [url](https://doi.org/10.1145/2603088.2603105)
+- 2022: Lago, "Implicit Computation Complexity in Higher-Order Programming Languages: A Survey in Memory of Martin Hofmann." [url](https://www.researchgate.net/publication/359247675_Implicit_computation_complexity_in_higher-order_programming_languages_A_Survey_in_Memory_of_Martin_Hofmann)
 
 ### Linear Logic
 
