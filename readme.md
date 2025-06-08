@@ -64,7 +64,6 @@
 
 - 1999: Alexiev, "Non-Deterministic Interaction Nets." [url](https://era.library.ualberta.ca/items/8af05152-4996-401c-8d53-9c180b717891)
 - 2002: Fernández and Khalil, "Interaction Nets with McCarthy’s Amb." [url](https://www.sciencedirect.com/science/article/pii/S1571066105803639)
-- 2005: Mazza, "Multiport Interaction Nets and Concurrency." [url](https://lipn.univ-paris13.fr/~mazza/papers/mINSAndConcurrency-CONCUR05.pdf)
 - 2006: Mazza, "Interaction Nets: Semantics and Concurrent Extensions." [url](https://lipn.univ-paris13.fr/~mazza/papers/Thesis-1.0.pdf)
 
 ### IO
