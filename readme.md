@@ -14,6 +14,8 @@
     - interactive translator from lambda calculus to ∆-Nets (variation of interaction nets)
 - inet-forth [repo](https://github.com/cicada-lang/inet-forth)
     - focus on custom interaction rules and interaction calculus in forth
+- optiscope [repo](https://github.com/etiams/optiscope)
+    - efficient implementation of lambdascope
 
 ## Research
 
