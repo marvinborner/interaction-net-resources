@@ -85,6 +85,7 @@
 - 1980: Lévy, "Optimal Reductions in the Lambda Calculus." [url](https://pauillac.inria.fr/~levy/pubs/80curry.pdf)
 - 1990: Lamping, "An Algorithm for Optimal Lambda Calculus Reduction." [url](http://portal.acm.org/citation.cfm?doid=96709.96711)
 - 1992: Gonthier, Abadi, and Lévy, "The Geometry of Optimal Lambda Reduction." [url](https://dl.acm.org/doi/10.1145/143165.143172)
+- 1996: Lawall and Mairson, "Optimality and Inefficiency." [url](https://dl.acm.org/doi/10.1145/232629.232639)
 - 1996: Asperti, Giovannetti, and Naletto, "The Bologna Optimal Higher-Order Machine." [url](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/bologna-optimal-higherorder-machine/1F2763B0F931680F9B15BDC750BEB343)
 - 1996: Danos and Regnier, "Reversible, Irreversible and Optimal λ-Machines." [url](https://www.sciencedirect.com/science/article/pii/S1571066105804025)
 - 1997: Asperti and Chroboczek, "Safe Operators." [url](https://doi.org/10.1007/s002000050083)
@@ -109,7 +110,6 @@
 
 #### Theory
 
-- 1996: Lawall and Mairson, "Optimality and Inefficiency: What Isn't a Cost Model of the Lambda Calculus?" [url](https://dl.acm.org/doi/10.1145/232629.232639)
 - 1997: Asperti, "P = NP, up to Sharing." [url](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d45b284c43f8a341bb60826b2819557e0d0fe94a)
 - 1998: Asperti and Mairson, "Parallel Beta Reduction Is Not Elementary Recursive." [url](https://dl.acm.org/doi/10.1145/268946.268971)
 - 2003: Beckmann, "Exact Bounds For Lengths of Reductions in Typed λ-Calculus" [url](https://www.beckmann.pro/PaperFiles/lambda.pdf)
