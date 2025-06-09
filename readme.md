@@ -109,6 +109,7 @@
 
 #### Theory
 
+- 1996: Lawall and Mairson, "Optimality and Inefficiency: What Isn't a Cost Model of the Lambda Calculus?" [url](https://dl.acm.org/doi/10.1145/232629.232639)
 - 1997: Asperti, "P = NP, up to Sharing." [url](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d45b284c43f8a341bb60826b2819557e0d0fe94a)
 - 1998: Asperti and Mairson, "Parallel Beta Reduction Is Not Elementary Recursive." [url](https://dl.acm.org/doi/10.1145/268946.268971)
 - 2003: Beckmann, "Exact Bounds For Lengths of Reductions in Typed λ-Calculus" [url](https://www.beckmann.pro/PaperFiles/lambda.pdf)
