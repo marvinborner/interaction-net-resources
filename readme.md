@@ -103,21 +103,21 @@
 
 - 1995: Mackie, "The Geometry of Interaction Machine." [url](https://dl.acm.org/doi/10.1145/199448.199483)
 - 2005: Sinot, "Call-by-Name and Call-by-Value as Token-Passing Interaction Nets." [url](https://link.springer.com/chapter/10.1007/11417170_28)
-- 2006: Sinot, "Token-Passing Nets: Call-by-Need for Free" [url](https://www.sciencedirect.com/science/article/pii/S1571066106000934)
+- 2006: Sinot, "Token-Passing Nets: Call-by-Need for Free." [url](https://www.sciencedirect.com/science/article/pii/S1571066106000934)
 - 2008: Almeida, Pinto, and Vilaça, "Token-Passing Nets for Functional Languages." [url](https://www.sciencedirect.com/science/article/pii/S1571066108001667)
 - 2016: Salikhmetov, "Token-Passing Optimal Reduction with Embedded Read-Back." [url](http://arxiv.org/abs/1609.03644)
-- 2018: Muroya and Chica, "Efficient Implementation of Evaluation Strategies via Token-Guided Graph Rewriting" [url](https://arxiv.org/pdf/1802.06495)
+- 2018: Muroya and Chica, "Efficient Implementation of Evaluation Strategies via Token-Guided Graph Rewriting." [url](https://arxiv.org/pdf/1802.06495)
 
 #### Theory
 
 - 1997: Asperti, "P = NP, up to Sharing." [url](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d45b284c43f8a341bb60826b2819557e0d0fe94a)
 - 1998: Asperti and Mairson, "Parallel Beta Reduction Is Not Elementary Recursive." [url](https://dl.acm.org/doi/10.1145/268946.268971)
-- 2003: Beckmann, "Exact Bounds For Lengths of Reductions in Typed λ-Calculus" [url](https://www.beckmann.pro/PaperFiles/lambda.pdf)
+- 2003: Beckmann, "Exact Bounds For Lengths of Reductions in Typed λ-Calculus." [url](https://www.beckmann.pro/PaperFiles/lambda.pdf)
 - 2004: Baillot and Terui, "A Feasible Algorithm for Typing in Elementary Affine Logic." [url](http://arxiv.org/abs/cs/0412028)
 - 2007: Terui, "Light Affine Lambda Calculus and Polynomial Time Strong Normalization." [url](https://doi.org/10.1007/s00153-007-0042-6)
 - 2013: David, Grygiel, Kozic, Raffalli, Theyssier, and Zaionc, "Asymptotically Almost All λ-Terms Are Strongly Normalizing." [url](https://arxiv.org/pdf/0903.5505)
 - 2014: Accattoli and Dal Lago, "Beta Reduction Is Invariant, Indeed." [url](https://doi.org/10.1145/2603088.2603105)
-- 2022: Lago, "Implicit Computation Complexity in Higher-Order Programming Languages: A Survey in Memory of Martin Hofmann." [url](https://www.researchgate.net/publication/359247675_Implicit_computation_complexity_in_higher-order_programming_languages_A_Survey_in_Memory_of_Martin_Hofmann)
+- 2022: Lago, "Implicit Computation Complexity in Higher-Order Programming Languages." [url](https://www.researchgate.net/publication/359247675_Implicit_computation_complexity_in_higher-order_programming_languages_A_Survey_in_Memory_of_Martin_Hofmann)
 
 ### Linear Logic
 
