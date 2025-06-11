@@ -20,6 +20,19 @@
     - interactive translator from lambda calculus to an interaction net-like token-passing encoding (GoI)
     - focus on enforcing reduction strategies by various applicator-token interactions
 
+## Blog Posts
+
+- 20XX: Buliga, [Graphic Lambda Calculus](https://chorasimilarity.wordpress.com/graphic-lambda-calculus/), [Universality of Interaction Combinators](https://chorasimilarity.wordpress.com/2019/01/16/universality-of-interaction-combinators-and-chemical-reactions/), [more](https://imar.ro/~mbuliga/pages.html)
+- 20XX: Taelin, [Symmetric Interaction Calculus](https://medium.com/@maiavictor/the-abstract-calculus-fe8c46bcf39c), [Optimal Evaluation in 10 Minutes](https://gist.github.com/VictorTaelin/311f6a58a7756945196c15733e61d0c6), [more](https://github.com/VictorTaelin/VictorTaelin/blob/main/README.md)
+- 2023: Zicklag, [Interaction Nets, Combinators, and Calculus](https://zicklag.katharos.group/blog/interaction-nets-combinators-calculus/)
+- 2025: Borba, [Lazy and Strict Evaluation](https://ezb.io/thoughts/interaction_nets/lambda_calculus/2025-05-18_lazy-strict-eval.html), [Polarized Interaction Net Systems](https://ezb.io/thoughts/interaction_nets/lambda_calculus/2025-05-05_polarity.html), [Lambda Calculus Normalization with Interaction Nets](https://ezb.io/thoughts/interaction_nets/lambda_calculus/2025-04-25_normalization.html)
+
+## Videos
+
+- 2023: Taelin, [HVM: um Runtime Paralelo](https://www.youtube.com/watch?v=sDPuQ-UjhVQ) [English Subtitles]
+- 2024: Higher-Order Company (Taelin, Carman, Abril, and Borba), [HVM2: Interaction Combinator Evaluator](https://www.youtube.com/watch?v=15ZwW6Sr_iM) (FProPer24)
+- 2024: Wolfram Institute (Murzin and Wiles) [Introduction to Interaction Nets](https://www.youtube.com/watch?v=zCcAg-vcpys)
+
 ## Research
 
 ### General
