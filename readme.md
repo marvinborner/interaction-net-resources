@@ -32,6 +32,7 @@
 - 2023: Taelin, [HVM: um Runtime Paralelo](https://www.youtube.com/watch?v=sDPuQ-UjhVQ) [English Subtitles]
 - 2024: Higher-Order Company (Taelin, Carman, Abril, and Borba), [HVM2: Interaction Combinator Evaluator](https://www.youtube.com/watch?v=15ZwW6Sr_iM) (FProPer24)
 - 2024: Wolfram Institute (Murzin and Wiles), [Introduction to Interaction Nets](https://www.youtube.com/watch?v=zCcAg-vcpys)
+- 2025: Coll, [MLIR Interaction Networks Dialect](https://www.youtube.com/watch?v=XKY4LLBwmmg)
 - 2025: Christopher and Marvin, [Interaction Combinators: The Hidden Patterns of Computation](https://media.ccc.de/v/gpn23-124-interaction-combinators-the-hidden-patterns-of-computation-)
 
 ## Research
