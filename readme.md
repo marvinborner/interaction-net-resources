@@ -21,6 +21,8 @@
     - focus on enforcing reduction strategies by various applicator-token interactions
 - PELCR [repo](https://github.com/pis147879/PELCR)
     - parallel environment for optimal lambda calculus reduction
+- ingpu [repo](https://github.com/euschn/ingpu)
+    - an experimental GPU-based interaction nets evaluator
 
 ## Blog Posts
 
