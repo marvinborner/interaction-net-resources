@@ -19,6 +19,8 @@
 - GoI-Visualizer [website](https://koko-m.github.io/GoI-Visualiser/), [repo](https://github.com/koko-m/GoI-Visualizer)
     - interactive translator from lambda calculus to an interaction net-like token-passing encoding (GoI)
     - focus on enforcing reduction strategies by various applicator-token interactions
+- PELCR [repo](https://github.com/pis147879/PELCR)
+    - parallel environment for optimal lambda calculus reduction
 
 ## Blog Posts
 
