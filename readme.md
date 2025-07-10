@@ -73,6 +73,7 @@
 - 1992: Gonthier, Abadi, and Lévy, "The Geometry of Optimal Lambda Reduction." [url](https://dl.acm.org/doi/10.1145/143165.143172)
 - 1995: Mackie, "The Geometry of Interaction Machine." [url](https://dl.acm.org/doi/10.1145/199448.199483)
 - 2002: Fernández and Mackie, "Call-by-Value λ-Graph Rewriting without Rewriting." [url](https://link.springer.com/chapter/10.1007/3-540-45832-8_8)
+- 2018: Muroya and Ghica, "The Dynamic Geometry of Interaction Machine." [url](https://arxiv.org/pdf/1803.00427)
 
 ### Syntax
 
