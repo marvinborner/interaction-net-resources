@@ -117,6 +117,7 @@
 - 2013: Balabonski, "Weak Optimality, and the Meaning of Sharing." [url](https://doi.org/10.1145/2544174.2500606)
 - 2014: Pedicini, Pellitta, and Piazza, "Sequential and Parallel Abstract Machines for Optimal Reduction." [url](https://www.mat.uniroma3.it/users/pedicini/papers/subTFP2014.pdf)
 - 2017: Lai, Pedicini, and Piazza, "Abstract Machines, Optimal Reduction, and Streams." [url](https://iris.uniroma1.it/bitstream/11573/1408275/6/Lai_preprint_abstract_2019.pdf)
+- 2017: Barenbaum and Bonelli, "Optimality and the Linear Substitution Calculus." [url](https://cs.emis.de/LIPIcs/volltexte/2017/7730/pdf/LIPIcs-FSCD-2017-9_.pdf)
 - 2025: Salvadori, "Δ-Nets." [url](https://arxiv.org/abs/2505.20314)
 
 #### Tokens
