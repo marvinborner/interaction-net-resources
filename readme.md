@@ -63,6 +63,7 @@
 - 2000: Pinto, "Sequential and Concurrent Abstract Machines for Interaction Nets." [url](https://link.springer.com/chapter/10.1007/3-540-46432-8_18)
 - 2003: Pinto, "Weak Reduction and Garbage Collection in Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S1571066105826143)
 - 2009: Hassan, Mackie, and Sato, "Compilation of Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S1571066109004381)
+- 2010: Hassan, Mackie, and Sato, "A lightweight abstract machine for interaction nets." [url](https://doi.org/10.14279/tuj.eceasst.29.416)
 - 2011: Mackie, "An Interaction Net Implementation of Closed Reduction." [url](https://link.springer.com/chapter/10.1007/978-3-642-24452-0_3)
 - 2015: Kahl, "A Simple Parallel Implementation of Interaction Nets in Haskell." [url](http://arxiv.org/abs/1504.02603)
 - 2015: Sato, "Design and Implementation of a Low-Level Language for Interaction Nets." [url](https://sussex.figshare.com/articles/thesis/Design_and_implementation_of_a_low-level_language_for_interaction_nets/23417312/1)
@@ -83,6 +84,7 @@
 - 1990: Lafont, "Interaction Nets." [url](http://portal.acm.org/citation.cfm?doid=96709.96718)
 - 1999: Fernández and Mackie, "A Calculus for Interaction Nets." [url](https://link.springer.com/chapter/10.1007/10704567_10)
 - 2005: Mackie, "Towards a Programming Language for Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S1571066105050176)
+- 2010: Hassan, Mackie, and Sato, "A lightweight abstract machine for interaction nets." [url](https://doi.org/10.14279/tuj.eceasst.29.416)
 
 ### Non-Determinism
 
