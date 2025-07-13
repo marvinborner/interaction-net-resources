@@ -144,7 +144,7 @@
 - 2014: Accattoli and Dal Lago, "Beta Reduction Is Invariant, Indeed." [url](https://doi.org/10.1145/2603088.2603105)
 - 2022: Lago, "Implicit Computation Complexity in Higher-Order Programming Languages." [url](https://www.researchgate.net/publication/359247675_Implicit_computation_complexity_in_higher-order_programming_languages_A_Survey_in_Memory_of_Martin_Hofmann)
 
-### Functional programming
+### Functional Programming
 
 - 2009: Mackie, Pinto, and Vilaça, "Iterators, Recursors and Interaction Nets." [url](https://www.researchgate.net/publication/45878966_Iterators_Recursors_and_Interaction_Nets)
 - 2009: Fernández, Mackie, Sato, and Walker, "Recursive Functions with Pattern Matching in Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S157106610900437X)
