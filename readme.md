@@ -53,6 +53,7 @@
 - 2008: Béchet and Lippi, "Hard Combinators." [url](https://www.sciencedirect.com/science/article/pii/S1571066108001370/pdf?md5=7aa0930929fe76afbce9bf8c4b4102a1&pid=1-s2.0-S1571066108001370-main.pdf)
 - 2009: Fernández, Mackie, Sato, and Walker, "Recursive Functions with Pattern Matching in Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S157106610900437X)
 - 2009: Mackie, Pinto, and Vilaça, "Iterators, Recursors and Interaction Nets." [url](https://www.researchgate.net/publication/45878966_Iterators_Recursors_and_Interaction_Nets)
+- 2013: Gimenez and Moser, "The Structure of Interaction." [url](http://cl-informatik.uibk.ac.at/users/sgimenez/data/articles/soi.pdf)
 - 2014: Mackie, Pinto, and Vilaça, "Functional Programming and Program Transformation with Interaction Nets." [url](https://www.researchgate.net/publication/228680206_Functional_programming_and_program_transformation_with_interaction_nets)
 - 2016: Mackie and Sato, "In-place Graph Rewriting with Interaction Nets." [url](https://arxiv.org/pdf/1609.03641)
 - 2016: Mackie and Sato, "Parallel Evaluation of Interaction Nets: Case Studies and Experiments." [url](https://eceasst.org/index.php/eceasst/article/download/2205/2376/2387)
