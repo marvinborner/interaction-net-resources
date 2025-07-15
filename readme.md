@@ -63,7 +63,6 @@
 - 2009: Hassan, Mackie, and Sato, "Compilation of Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S1571066109004381)
 - 2010: Hassan, Mackie, and Sato, "A lightweight abstract machine for interaction nets." [url](https://doi.org/10.14279/tuj.eceasst.29.416)
 - 2011: Mackie, "An Interaction Net Implementation of Closed Reduction." [url](https://link.springer.com/chapter/10.1007/978-3-642-24452-0_3)
-- 2014: Jiresch, "Towards a GPU-Based Implementation of Interaction Nets." [url](https://arxiv.org/pdf/1404.0076)
 - 2015: Kahl, "A Simple Parallel Implementation of Interaction Nets in Haskell." [url](http://arxiv.org/abs/1504.02603)
 - 2015: Sato, "Design and Implementation of a Low-Level Language for Interaction Nets." [url](https://sussex.figshare.com/articles/thesis/Design_and_implementation_of_a_low-level_language_for_interaction_nets/23417312/1)
 - 2020: Accattoli, Lago, and Vanoni, "The Abstract Machinery of Interaction." [url](http://arxiv.org/abs/2002.05649)
@@ -79,7 +78,6 @@
 - 2004: Mackie, "Efficient λ-Evaluation with Interaction Nets." [url](https://link.springer.com/chapter/10.1007/978-3-540-25979-4_11)
 - 2011: Mackie, "An Interaction Net Implementation of Closed Reduction." [url](https://link.springer.com/chapter/10.1007/978-3-642-24452-0_3)
 - 2013: Fernández, Mackie, and Walker, "Bigraphical Nets." [url](https://arxiv.org/pdf/1302.6339)
-- 2014: Jiresch, "Towards a GPU-Based Implementation of Interaction Nets." [url](https://arxiv.org/pdf/1404.0076)
 
 ### Geometry
 
