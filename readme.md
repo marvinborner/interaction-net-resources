@@ -69,6 +69,16 @@
 - 2024: Taelin, "HVM2: A Parallel Evaluator For Interaction Combinators." [url](https://raw.githubusercontent.com/HigherOrderCO/HVM/main/paper/HVM2.pdf)
 - 2025: Huber and Yi, "An Encoding of Interaction Nets in Ocaml." [url](https://joerg.endrullis.de/downloads/gcm2024/STAF_2024_paper_72.pdf)
 
+### Optimization
+
+- 1997: Asperti and Chroboczek, "Safe Operators." [url](https://doi.org/10.1007/s002000050083)
+- 1998: Mackie, "YALE: Yet Another Lambda Evaluator Based on Interaction Nets." [url](https://dl.acm.org/doi/pdf/10.1145/291251.289434)
+- 2003: Coppola and Martini, "Optimizing Optimal Reduction." [url](http://arxiv.org/abs/cs/0305011)
+- 2003: Pinto, "Weak Reduction and Garbage Collection in Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S1571066105826143)
+- 2004: Mackie, "Efficient λ-Evaluation with Interaction Nets." [url](https://link.springer.com/chapter/10.1007/978-3-540-25979-4_11)
+- 2011: Mackie, "An Interaction Net Implementation of Closed Reduction." [url](https://link.springer.com/chapter/10.1007/978-3-642-24452-0_3)
+- 2013: Fernández, Mackie, and Walker, "Bigraphical Nets." [url](https://arxiv.org/pdf/1302.6339)
+
 ### Geometry
 
 - 1989: Girard, "Geometry of Interaction 1." [url](https://www.sciencedirect.com/science/article/pii/S0049237X08702714)
@@ -112,10 +122,8 @@
 - 1996: Lawall and Mairson, "Optimality and Inefficiency." [url](https://dl.acm.org/doi/10.1145/232629.232639)
 - 1996: Asperti, Giovannetti, and Naletto, "The Bologna Optimal Higher-Order Machine." [url](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/bologna-optimal-higherorder-machine/1F2763B0F931680F9B15BDC750BEB343)
 - 1996: Danos and Regnier, "Reversible, Irreversible and Optimal λ-Machines." [url](https://www.sciencedirect.com/science/article/pii/S1571066105804025)
-- 1997: Asperti and Chroboczek, "Safe Operators." [url](https://doi.org/10.1007/s002000050083)
 - 1998: Asperti and Guerrini, "The Optimal Implementation of Functional Programming Languages." [url](https://www.researchgate.net/publication/235778993_The_optimal_implementation_of_functional_programming_languages)
 - 2000: Asperti, Coppola, and Martini, "(Optimal) Duplication Is Not Elementary Recursive." [url](https://dl.acm.org/doi/10.1145/325694.325707)
-- 2003: Coppola and Martini, "Optimizing Optimal Reduction." [url](http://arxiv.org/abs/cs/0305011)
 - 2004: van Oostrom, van de Looij, and Zwitserlood, "Lambdascope: Another Optimal Implementation of the Lambda-Calculus." [url](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=61042374787bf6514706b49a5a4f0b74996979a0)
 - 2005: Guerrini, "Sharing Implementations of Graph Rewriting Systems." [url](https://www.sciencedirect.com/science/article/pii/S1571066105050164)
 - 2013: Balabonski, "Weak Optimality, and the Meaning of Sharing." [url](https://doi.org/10.1145/2544174.2500606)
