@@ -104,6 +104,7 @@
 
 - 2012: Jiresch, "Extending Interaction Nets towards the Real World." [url](https://repositum.tuwien.at/handle/20.500.12708/12949)
 - 2024: Taelin, "HVM2: A Parallel Evaluator For Interaction Combinators." [url](https://raw.githubusercontent.com/HigherOrderCO/HVM/main/paper/HVM2.pdf)
+- 2025: Borner, "Optimal Interaction with the Real World." [url](https://raw.githubusercontent.com/marvinborner/optimal-effects/refs/heads/bachelor/thesis.pdf)
 
 ### Lambda Calculus
 
