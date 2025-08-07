@@ -102,6 +102,7 @@
 
 ### IO
 
+- 2001: Maribel, Mackie and Pinto, "Combining Interaction Nets with Externally Defined Programs." [url](https://repositorium.sdum.uminho.pt/bitstream/1822/776/1/cominedp.pdf)
 - 2012: Jiresch, "Extending Interaction Nets towards the Real World." [url](https://repositum.tuwien.at/handle/20.500.12708/12949)
 - 2024: Taelin, "HVM2: A Parallel Evaluator For Interaction Combinators." [url](https://raw.githubusercontent.com/HigherOrderCO/HVM/main/paper/HVM2.pdf)
 - 2025: Borner, "Optimal Interaction with the Real World." [url](https://raw.githubusercontent.com/marvinborner/optimal-effects/refs/heads/bachelor/thesis.pdf)
@@ -140,6 +141,7 @@
 - 2006: Sinot, "Token-Passing Nets: Call-by-Need for Free." [url](https://www.sciencedirect.com/science/article/pii/S1571066106000934)
 - 2008: Almeida, Pinto, and Vilaça, "Token-Passing Nets for Functional Languages." [url](https://www.sciencedirect.com/science/article/pii/S1571066108001667)
 - 2016: Salikhmetov, "Token-Passing Optimal Reduction with Embedded Read-Back." [url](http://arxiv.org/abs/1609.03644)
+- 2017: Lago, Tanaka and Yoshimizu, "The Geometry of Concurrent Interaction: Handling Multiple Ports by Way of Multiple Tokens." [url](http://ieeexplore.ieee.org/document/8005112/)
 - 2018: Muroya and Chica, "Efficient Implementation of Evaluation Strategies via Token-Guided Graph Rewriting." [url](https://arxiv.org/pdf/1802.06495)
 
 #### Theory
