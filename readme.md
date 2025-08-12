@@ -128,6 +128,7 @@
 - 2000: Asperti, Coppola, and Martini, "(Optimal) Duplication Is Not Elementary Recursive." [url](https://dl.acm.org/doi/10.1145/325694.325707)
 - 2004: van Oostrom, van de Looij, and Zwitserlood, "Lambdascope: Another Optimal Implementation of the Lambda-Calculus." [url](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=61042374787bf6514706b49a5a4f0b74996979a0)
 - 2005: Guerrini, "Sharing Implementations of Graph Rewriting Systems." [url](https://www.sciencedirect.com/science/article/pii/S1571066105050164)
+- 2010: Fernández and Siafakas, "Labelled Lambda-calculi with Explicit Copy and Erase." [url](https://arxiv.org/abs/1003.5515)
 - 2013: Balabonski, "Weak Optimality, and the Meaning of Sharing." [url](https://doi.org/10.1145/2544174.2500606)
 - 2014: Pedicini, Pellitta, and Piazza, "Sequential and Parallel Abstract Machines for Optimal Reduction." [url](https://www.mat.uniroma3.it/users/pedicini/papers/subTFP2014.pdf)
 - 2017: Lai, Pedicini, and Piazza, "Abstract Machines, Optimal Reduction, and Streams." [url](https://iris.uniroma1.it/bitstream/11573/1408275/6/Lai_preprint_abstract_2019.pdf)
