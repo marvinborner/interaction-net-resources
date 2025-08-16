@@ -23,6 +23,8 @@
     - parallel environment for optimal lambda calculus reduction
 - ingpu [repo](https://github.com/euschn/ingpu)
     - an experimental GPU-based interaction nets evaluator
+- Linr [website](http://cl-informatik.uibk.ac.at/users/sgimenez/lin/)
+    - lightweight parallel computation server for interaction net reductions
 
 ## Blog Posts
 
@@ -108,6 +110,10 @@
 - 2024: Taelin, "HVM2: A Parallel Evaluator For Interaction Combinators." [url](https://raw.githubusercontent.com/HigherOrderCO/HVM/main/paper/HVM2.pdf)
 - 2025: Borner, "Optimal Interaction with the Real World." [url](https://raw.githubusercontent.com/marvinborner/optimal-effects/refs/heads/bachelor/thesis.pdf)
 
+### Cellular Automata
+
+- 2016: Gimenez and Obwaller: "Interaction Automata and the ia2d Interpreter." [url](http://cl-informatik.uibk.ac.at/users/sgimenez/data/articles/ia2d.pdf)
+
 ### Lambda Calculus
 
 #### Efficiency
@@ -163,11 +169,13 @@
 - 2009: Fernández, Mackie, Sato, and Walker, "Recursive Functions with Pattern Matching in Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S157106610900437X)
 - 2014: Mackie, Pinto, and Vilaça, "Functional Programming and Program Transformation with Interaction Nets." [url](https://www.researchgate.net/publication/228680206_Functional_programming_and_program_transformation_with_interaction_nets)
 
-### Linear Logic
+### Linear Logic & Sequent Calculus
 
 - 2000: Asperti, Coppola, and Martini, "(Optimal) Duplication Is Not Elementary Recursive." [url](https://dl.acm.org/doi/10.1145/325694.325707)
 - 2000: Mackie, "Interaction Nets for Linear Logic." [url](https://www.sciencedirect.com/science/article/pii/S0304397500001985)
 - 2002: Mackie and Pinto, "Encoding Linear Logic with Interaction Combinators." [url](https://www.sciencedirect.com/science/article/pii/S0890540102931639)
+- 2009: Gimenez, "Programmer, calculer et raisonner avec les réseaux de la logique linéaire." [url](http://cl-informatik.uibk.ac.at/users/sgimenez/thesis-sgimenez.pdf)
+- 2013: Gimenez and Moser, "The Structure of Interaction." [url](http://cl-informatik.uibk.ac.at/users/sgimenez/data/articles/soi.pdf)
 - 2019: Aschieri and Genco, "Par Means Parallel." [url](https://dl.acm.org/doi/10.1145/3371086)
 
 ### Term Rewriting System
