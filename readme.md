@@ -73,16 +73,6 @@
 - 2024: Taelin, "HVM2: A Parallel Evaluator For Interaction Combinators." [url](https://raw.githubusercontent.com/HigherOrderCO/HVM/main/paper/HVM2.pdf)
 - 2025: Huber and Yi, "An Encoding of Interaction Nets in Ocaml." [url](https://joerg.endrullis.de/downloads/gcm2024/STAF_2024_paper_72.pdf)
 
-### Optimization
-
-- 1997: Asperti and Chroboczek, "Safe Operators." [url](https://doi.org/10.1007/s002000050083)
-- 1998: Mackie, "YALE: Yet Another Lambda Evaluator Based on Interaction Nets." [url](https://dl.acm.org/doi/pdf/10.1145/291251.289434)
-- 2003: Coppola and Martini, "Optimizing Optimal Reduction." [url](http://arxiv.org/abs/cs/0305011)
-- 2003: Pinto, "Weak Reduction and Garbage Collection in Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S1571066105826143)
-- 2004: Mackie, "Efficient λ-Evaluation with Interaction Nets." [url](https://link.springer.com/chapter/10.1007/978-3-540-25979-4_11)
-- 2011: Mackie, "An Interaction Net Implementation of Closed Reduction." [url](https://link.springer.com/chapter/10.1007/978-3-642-24452-0_3)
-- 2013: Fernández, Mackie and Walker, "Bigraphical Nets." [url](https://arxiv.org/pdf/1302.6339)
-
 ### Geometry
 
 - 1989: Girard, "Geometry of Interaction 1." [url](https://www.sciencedirect.com/science/article/pii/S0049237X08702714)
@@ -125,8 +115,13 @@
 #### Efficiency
 
 - 1996: Lawall and Mairson, "Optimality and Inefficiency." [url](https://dl.acm.org/doi/10.1145/232629.232639)
+- 1997: Asperti and Chroboczek, "Safe Operators." [url](https://doi.org/10.1007/s002000050083)
 - 1998: Mackie, "YALE: Yet Another Lambda Evaluator Based on Interaction Nets." [url](https://dl.acm.org/doi/pdf/10.1145/291251.289434)
+- 2003: Coppola and Martini, "Optimizing Optimal Reduction." [url](http://arxiv.org/abs/cs/0305011)
+- 2003: Pinto, "Weak Reduction and Garbage Collection in Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S1571066105826143)
 - 2004: Mackie, "Efficient λ-Evaluation with Interaction Nets." [url](https://link.springer.com/chapter/10.1007/978-3-540-25979-4_11)
+- 2011: Mackie, "An Interaction Net Implementation of Closed Reduction." [url](https://link.springer.com/chapter/10.1007/978-3-642-24452-0_3)
+- 2013: Fernández, Mackie and Walker, "Bigraphical Nets." [url](https://arxiv.org/pdf/1302.6339)
 - 2017: Asperti, "About the Efficient Reduction of Lambda Terms." [url](http://arxiv.org/abs/1701.04240)
 
 #### Optimality
