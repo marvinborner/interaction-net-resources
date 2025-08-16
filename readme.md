@@ -8,6 +8,7 @@
 - Vine [website](https://vine.dev/), [orga](https://github.com/VineLang/), [repo](https://github.com/VineLang/vine/), [discord](https://discord.gg/bgUPV8KjDv)
     - interaction nets as a backend of a Rust-like language
     - focus on concurrency and interoperation between functional and imperative patterns
+    - WIP FPGA hardware target ("Tendrils Compute", [discord announcement](https://discord.com/channels/1246152587883970662/1384580352546308157/1405977895360532693))
 - Inpla [repo](https://github.com/inpla/inpla)
     - focus on custom interaction rules and interaction calculus
 - ∆-Nets [website](https://deltanets.org/), [repo](https://github.com/danaugrs/deltanets)
@@ -149,6 +150,7 @@
 - 2001: Lippi, "Encoding left reduction in the λ-calculus with interaction nets." [url](https://doi.org/10.1017/S0960129502003754)
 - 2003: Pinto, "Weak Reduction and Garbage Collection in Interaction Nets." [url](https://doi.org/10.1016/S1571-0661(05)82614-3)
 - 2007: Lippi, "The Graphical Krivine Machine." [url](https://link.springer.com/article/10.1007/s10990-007-9011-3)
+- 2011: Mackie, "An Interaction Net Implementation of Closed Reduction." [url](https://link.springer.com/chapter/10.1007/978-3-642-24452-0_3)
 
 #### Tokens
 
