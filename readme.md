@@ -30,6 +30,7 @@
 - 20XX: Taelin, [Symmetric Interaction Calculus](https://medium.com/@maiavictor/the-abstract-calculus-fe8c46bcf39c), [Optimal Evaluation in 10 Minutes](https://gist.github.com/VictorTaelin/311f6a58a7756945196c15733e61d0c6), [more](https://github.com/VictorTaelin/VictorTaelin/blob/main/README.md)
 - 2023: Zicklag, [Interaction Nets, Combinators, and Calculus](https://zicklag.katharos.group/blog/interaction-nets-combinators-calculus/)
 - 2025: Borba, [Lazy and Strict Evaluation](https://ezb.io/thoughts/interaction_nets/lambda_calculus/2025-05-18_lazy-strict-eval.html), [Polarized Interaction Net Systems](https://ezb.io/thoughts/interaction_nets/lambda_calculus/2025-05-05_polarity.html), [Lambda Calculus Normalization with Interaction Nets](https://ezb.io/thoughts/interaction_nets/lambda_calculus/2025-04-25_normalization.html)
+- 2025: Kidd, [Interaction Nets and Cellular Automata](https://osoi.dev/inet-slides)
 
 ## Videos
 
