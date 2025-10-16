@@ -52,6 +52,7 @@
 - 1994: Asperti and Laneve, "Interaction Systems I." [url](https://www.researchgate.net/publication/220173276_Interaction_Systems_I_The_Theory_of_Optimal_Reductions)
 - 1996: Asperti and Laneve, "Interaction Systems II." [url](https://www.sciencedirect.com/science/article/pii/0304397595000623)
 - 1997: Lafont, "Interaction Combinators." [url](https://linkinghub.elsevier.com/retrieve/pii/S0890540197926432)
+- 1998: Fernández and Mackie, "Coinductive techniques for operational equivalence of interaction nets." [url](https://www.semanticscholar.org/paper/Coinductive-techniques-for-operational-equivalence-Fern%C3%A1ndez-Mackie/6188a20711cdb8cef370fc60a6a9dfd82f8f6c8f)
 - 2003: Fernández and Mackie, "Operational Equivalence for Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S0304397502006370)
 - 2006: Ehrhard and Regnier, "Differential Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S0304397506005299)
 - 2013: Gimenez and Moser, "The Structure of Interaction." [url](http://cl-informatik.uibk.ac.at/users/sgimenez/data/articles/soi.pdf)
@@ -62,6 +63,7 @@
 ### Implementation
 
 - 2000: Pinto, "Sequential and Concurrent Abstract Machines for Interaction Nets." [url](https://link.springer.com/chapter/10.1007/3-540-46432-8_18)
+- 2000: Pedicini and Quaglia, "A parallel implementation for optimal lambda-calculus reduction." [url](https://dl.acm.org/doi/pdf/10.1145/351268.351270)
 - 2002: Lippi, "in2: A Graphical Interpreter for Interaction Nets." [url](https://link.springer.com/chapter/10.1007/3-540-45610-4_29)
 - 2003: Pinto, "Weak Reduction and Garbage Collection in Interaction Nets." [url](https://doi.org/10.1016/S1571-0661(05)82614-3)
 - 2008: Hassan, Mackie and Sato, "Interaction Nets: Programming language design and implementation." [url](https://www.user.tu-berlin.de/o.runge/tfs/workshops/gtvmt08/Program/paper_38.pdf)
@@ -70,6 +72,8 @@
 - 2011: Mackie, "An Interaction Net Implementation of Closed Reduction." [url](https://link.springer.com/chapter/10.1007/978-3-642-24452-0_3)
 - 2015: Kahl, "A Simple Parallel Implementation of Interaction Nets in Haskell." [url](http://arxiv.org/abs/1504.02603)
 - 2015: Sato, "Design and Implementation of a Low-Level Language for Interaction Nets." [url](https://sussex.figshare.com/articles/thesis/Design_and_implementation_of_a_low-level_language_for_interaction_nets/23417312/1)
+- 2015: Hassan, Mackie and Sato, "An Implementation Model for Interaction Nets." [url](https://arxiv.org/abs/1505.07164)
+- 2016: Mackie, "Compiling process networks to interaction nets." [url](https://arxiv.org/abs/1609.03640)
 - 2020: Accattoli, Lago and Vanoni, "The Abstract Machinery of Interaction." [url](http://arxiv.org/abs/2002.05649)
 - 2024: Taelin, "HVM2: A Parallel Evaluator For Interaction Combinators." [url](https://raw.githubusercontent.com/HigherOrderCO/HVM/main/paper/HVM2.pdf)
 - 2025: Huber and Yi, "An Encoding of Interaction Nets in Ocaml." [url](https://joerg.endrullis.de/downloads/gcm2024/STAF_2024_paper_72.pdf)
@@ -121,9 +125,11 @@
 - 2003: Coppola and Martini, "Optimizing Optimal Reduction." [url](http://arxiv.org/abs/cs/0305011)
 - 2003: Pinto, "Weak Reduction and Garbage Collection in Interaction Nets." [url](https://www.sciencedirect.com/science/article/pii/S1571066105826143)
 - 2004: Mackie, "Efficient λ-Evaluation with Interaction Nets." [url](https://link.springer.com/chapter/10.1007/978-3-540-25979-4_11)
+- 2006: Sinot, "Stratégies Efficaces et Modèles d'Implantation pour les Langages Fonctionnels." [url](https://pastel.hal.science/pastel-00001952/document)
 - 2011: Mackie, "An Interaction Net Implementation of Closed Reduction." [url](https://link.springer.com/chapter/10.1007/978-3-642-24452-0_3)
 - 2013: Fernández, Mackie and Walker, "Bigraphical Nets." [url](https://arxiv.org/pdf/1302.6339)
 - 2017: Asperti, "About the Efficient Reduction of Lambda Terms." [url](http://arxiv.org/abs/1701.04240)
+- 2020: Muroya, "Hypernet semantics of programming languages." [url](https://group-mmm.org/~koko/papers/phdthesis.pdf)
 
 #### Optimality
 
@@ -138,6 +144,7 @@
 - 2000: Asperti, Coppola and Martini, "(Optimal) Duplication Is Not Elementary Recursive." [url](https://dl.acm.org/doi/10.1145/325694.325707)
 - 2004: van Oostrom, van de Looij and Zwitserlood, "Lambdascope: Another Optimal Implementation of the Lambda-Calculus." [url](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=61042374787bf6514706b49a5a4f0b74996979a0)
 - 2005: Guerrini, "Sharing Implementations of Graph Rewriting Systems." [url](https://www.sciencedirect.com/science/article/pii/S1571066105050164)
+- 2007: Zwitserlood, "End-of-Scope, Locally." [url](http://www.javakade.nl/research/supervised/marijnzwitserlood.pdf)
 - 2010: Fernández and Siafakas, "Labelled Lambda-calculi with Explicit Copy and Erase." [url](https://arxiv.org/abs/1003.5515)
 - 2012: Guerrini, Leventis and Solieri, "Deep into Optimality." [url](https://ms.xt3.it/research/DeepIntoOptimality_2012-02-17.pdf)
 - 2013: Balabonski, "Weak Optimality, and the Meaning of Sharing." [url](https://doi.org/10.1145/2544174.2500606)
