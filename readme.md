@@ -135,6 +135,7 @@
 
 - 1980: Lévy, "Optimal Reductions in the Lambda Calculus." [url](https://pauillac.inria.fr/~levy/pubs/80curry.pdf)
 - 1990: Lamping, "An Algorithm for Optimal Lambda Calculus Reduction." [url](http://portal.acm.org/citation.cfm?doid=96709.96711)
+- 1990: Kathail, "Optimal interpreters for lambda-calculus based functional languages." [url](http://hdl.handle.net/1721.1/14040)
 - 1992: Gonthier, Abadi and Lévy, "The Geometry of Optimal Lambda Reduction." [url](https://dl.acm.org/doi/10.1145/143165.143172)
 - 1996: Lawall and Mairson, "Optimality and Inefficiency." [url](https://dl.acm.org/doi/10.1145/232629.232639)
 - 1996: Asperti, Giovannetti and Naletto, "The Bologna Optimal Higher-Order Machine." [url](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/bologna-optimal-higherorder-machine/1F2763B0F931680F9B15BDC750BEB343)
