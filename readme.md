@@ -188,6 +188,7 @@
 
 - 1997: Asperti, "P = NP, up to Sharing." [url](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d45b284c43f8a341bb60826b2819557e0d0fe94a)
 - 1998: Asperti and Mairson, "Parallel Beta Reduction Is Not Elementary Recursive." [url](https://dl.acm.org/doi/10.1145/268946.268971)
+- 2002: Mairson, "From Hilbert Spaces to Dilbert Spaces." [url](https://www.cs.brandeis.edu/~mairson/Papers/fsttcs02.pdf)
 - 2003: Beckmann, "Exact Bounds For Lengths of Reductions in Typed λ-Calculus." [url](https://www.beckmann.pro/PaperFiles/lambda.pdf)
 - 2004: Baillot and Terui, "A Feasible Algorithm for Typing in Elementary Affine Logic." [url](http://arxiv.org/abs/cs/0412028)
 - 2005: Ariola and Blom, "Cyclic Lambda Calculi." [url](https://link.springer.com/chapter/10.1007/bfb0014548)
